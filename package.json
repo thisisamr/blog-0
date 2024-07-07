@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@prisma/client": "^5.16.1",
+    "@theguild/remark-mermaid": "^0.0.6",
     "next": "14.2.4",
     "next-mdx-remote": "^5.0.0",
     "next-themes": "^0.3.0",
